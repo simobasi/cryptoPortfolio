@@ -1,0 +1,8 @@
+{
+  "files": {
+    "portfolio": "data/portfolio.json",
+    "portfolio_export": "data/portfolio_export.csv",
+    "raw_sources": "data/raw_sources.json",
+    "wallet_portfolio": "Wallets/portafoglio.json"
+  }
+}

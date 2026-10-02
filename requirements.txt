@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+requests
+httpx
+yfinance
+currencyconverter
+python-binance
+python-dotenv
+web3
+solana
+solders
+krakenex

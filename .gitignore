@@ -1,0 +1,24 @@
+API_KEYS.env
+chiavi(non cancellare).png
+
+.venv/
+.venv_linux/
+.venv/**
+.venv_linux/**
+__pycache__/
+*.py[cod]
+
+captures/
+crypto_backup_*/
+crypto_backup_data/
+crypto_portfolio_backup/
+
+data/*
+!data/.gitkeep
+Wallets/portafoglio.json
+
+Screenshot*.png
+AnalisiSpese.py
+SpeseCasa_RemoLaValle3.csv
+prova1234.py
+sol2.py
